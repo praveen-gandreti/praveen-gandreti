@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveen-gandreti
 - 👀 I’m interested in ...spring boot microservices development
-- 🌱 I’m currently learning ...spring security
+- 🌱 I’m currently learning ... Highly scalable, secure, maintainable microservices architectures
 - 💞️ I’m looking to collaborate on ... microservices development
 - 📫 How to reach me ... gandretipraveen032@gmail.com
 
